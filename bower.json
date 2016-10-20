@@ -3,7 +3,7 @@
   "authors": [
     "Hichem elAbassi"
   ],
-  "description": "A simple stylish interface for login , contains a basic form , data recovery link and some picture.Made to be responsive.",
+  "description": "A simple stylish interface for login , contains a basic form , data recovery link and some picture.Made to be responsive.Currently being augmented by AngularJS(version:1) in a quality module to be integrated directly and without any hassle to any project requiring a login interface.Also, I'm trying to add animated transitions and effects in a form of separate layer , in order to be maintainable & extendable without forgetting the ablitiy to delete/remove animations with a simple single flag switch. I'm working for this project , as It's intended to represent my knowledge in the field and the experience that I've aquired during my schooling in the speciality of web technologies.",
   "main": "index.html",
   "keywords": [
     "simple",
@@ -11,6 +11,8 @@
     "interface",
     "login",
     "form",
+    "angular",
+    "module",
     "responsive"
   ],
   "license": "LGPL3",
