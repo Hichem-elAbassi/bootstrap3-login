@@ -1,0 +1,29 @@
+{
+  "name": "Bootstrap3-Login-interface",
+  "authors": [
+    "Hichem elAbassi"
+  ],
+  "description": "A simple stylish interface for login , contains a basic form , data recovery link and some picture.Made to be responsive.",
+  "main": "index.html",
+  "keywords": [
+    "simple",
+    "stylish",
+    "interface",
+    "login",
+    "form",
+    "responsive"
+  ],
+  "license": "LGPL3",
+  "homepage": "hichem.abassi.tn",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
